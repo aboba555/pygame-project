@@ -1,4 +1,1 @@
-# pygame-project
-# pygame-project
-# pygame-project
-# pygame-project
+first pygame project
